@@ -6,7 +6,7 @@ finding bugs in linux kernel filesystem modules
 
 
 ## Team Members
-**Project Member**: 김동희([Kimdong0219](https://github.com/Kimdong0219)), 조형진([zkaryaJo](https://github.com/zkaryaJo)), 홍승표([Ph4nt0m](https://github.com/Phantomn)), 남지효([NJhyo](https://github.com/NJhyo)), 정원영([nonetype](https://github.com/nonetype))
+**Project Member**: 김동희([Kieast](https://github.com/Kieast)), 조형진([zkaryaJo](https://github.com/zkaryaJo)), 홍승표([Ph4nt0m](https://github.com/Phantomn)), 남지효([NJhyo](https://github.com/NJhyo)), 정원영([nonetype](https://github.com/nonetype))
 
 **Project Leader**: 조성준([DelspoN](https://github.com/delspon))
 
